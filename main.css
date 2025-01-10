@@ -12,5 +12,7 @@ h3 {
     1: global (Đặt biến toàn cục)
     2: local  (Đặt biến cục bộ)
 */
-
-@r
+#hinhvuong {
+    width: 50%;
+    height: 50%;
+}
